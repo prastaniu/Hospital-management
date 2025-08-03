@@ -1,0 +1,2 @@
+# Hospital-management
+APPLIED DATABASE TECHNOLOGIES - PROJECT
