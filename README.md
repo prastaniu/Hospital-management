@@ -1,2 +1,3 @@
 # Hospital-management
-APPLIED DATABASE TECHNOLOGIES - PROJECT
+APPLIED DATABASE TECHNOLOGIES - Project -  Indiana University
+
